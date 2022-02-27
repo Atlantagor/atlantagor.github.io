@@ -1,10 +1,10 @@
 ---
 title : Angus Atlantagor
-notetype : unfeed
-date : 23-02-2022
+notetype : feed
+date : 02-02-2022
 ---
 
-Family: 
+Family:
 - [[Johnathan Atlantagor]]
 - [[Peter Atlantagor]]
 
