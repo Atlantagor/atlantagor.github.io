@@ -1,5 +1,5 @@
 ---
 title : High Road
-notetype : unfeed
+notetype : feed
 date : 23-02-2022
 ---
