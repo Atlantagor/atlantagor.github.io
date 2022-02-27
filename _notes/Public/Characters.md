@@ -1,7 +1,7 @@
 ---
 title : Characters
 notetype : feed
-date : 02-o2-2022
+date : 02-02-2022
 ---
 
 This page contains a list of the characters (both player and NPC) that exist in the Saga of Atlantagor.
