@@ -1,5 +1,5 @@
 ---
 title : The Sword Coast
-notetype : feed
-date : 23-02-2022
+notetype : unfeed
+date : 02-02-2022
 ---
