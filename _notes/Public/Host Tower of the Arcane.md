@@ -1,5 +1,5 @@
 ---
 title : Host Tower of the Arcane
-notetype : feed
+notetype : unfeed
 date : 02-02-2022
 ---

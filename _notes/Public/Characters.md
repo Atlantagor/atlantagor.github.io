@@ -1,6 +1,6 @@
 ---
 title : Characters
-notetype : feed
+notetype : unfeed
 date : 02-02-2022
 ---
 
