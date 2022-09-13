@@ -1,1 +1,0 @@
-[[Guardian's Academy]]

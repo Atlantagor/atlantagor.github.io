@@ -1,5 +1,0 @@
-[[Locations]]
-[[Chuck's]]
-[[Dead Woods]]
-[[Market]]
-[[Shadow Temple]]

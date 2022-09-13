@@ -1,7 +1,7 @@
 ---
-title: Fairy Grotto
+title: Atrium
 notetype: unfeed
 date: 02-02-2022
 ---
 
-[[Neverwoods]]
+[[Guardians Academy]]

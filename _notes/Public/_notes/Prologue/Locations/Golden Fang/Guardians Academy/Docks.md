@@ -1,7 +1,6 @@
 ---
-title: Fairy Grotto
+title: Docks
 notetype: unfeed
 date: 02-02-2022
 ---
-
-[[Neverwoods]]
+[[Guardians Academy]]
