@@ -7,8 +7,12 @@
         "id": "99524876f3971ecf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Prologue/Houses/Susurat.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prologue/Houses/Susurat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prologue/Houses/Susurat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prologue/Houses/Susurat.md"
+              }
             }
           }
         ]
@@ -121,5 +129,16 @@
     "collapsed": true
   },
   "active": "99524876f3971ecf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Prologue/Houses/Raucous.md",
+    "Prologue/Houses/Houses.md",
+    "Prologue/Houses/Aurum.md",
+    "Prologue/Encounters/Encounters.md",
+    "Prologue/Characters/Characters.md",
+    "Prologue/Characters/Secondary NPC/Squinks.md",
+    "Prologue/Characters/Secondary NPC/Secondary NPC.md",
+    "Prologue/Characters/Secondary NPC/Mr. Ogre.md",
+    "Prologue/Characters/Secondary NPC/Mr. Floppers.md",
+    "Prologue/Characters/Players/Tump.md"
+  ]
 }
