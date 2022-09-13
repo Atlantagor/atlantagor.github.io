@@ -1,0 +1,3 @@
+# Encounters
+
+[[Possible Encounters]]
