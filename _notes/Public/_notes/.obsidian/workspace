@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "1e6e5b104e720612",
+    "id": "092e6c3ece170b71",
     "type": "split",
     "children": [
       {
-        "id": "8a94ba615d29eab9",
+        "id": "99524876f3971ecf",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "774d2e0e0fe46950",
+    "id": "c3037d760e4c825a",
     "type": "split",
     "children": [
       {
-        "id": "7ec011efa380cbbb",
+        "id": "b5da836ef1be4744",
         "type": "tabs",
         "children": [
           {
-            "id": "a4449fb64b25db5c",
+            "id": "aa6d50059d66a2d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "ba61f9a62b636a53",
+            "id": "3c6e85050cd2862b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "9c8c559cc4e9e462",
+            "id": "62e5a2f86344d4fc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "2f8eaf557bca1e20",
+    "id": "98d73645691a251e",
     "type": "split",
     "children": [
       {
-        "id": "0a7b8cefa3d930c4",
+        "id": "6f1c4794cce3d8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd1ab9bc825bd6c",
+            "id": "598ce8a6b8fb53f6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "9cb8e657b1202204",
+            "id": "0d696afa60e97960",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "633f5cd8b14bdf5f",
+            "id": "10b1215e8c9afc5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "5817e0c722ac7bed",
+            "id": "70dad8a524496411",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,17 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4449fb64b25db5c",
-  "lastOpenFiles": [
-    "_notes/Prologue/Locations/Novaria/Novaria.md",
-    "_notes/Prologue/Characters/Players/Oozos.md",
-    "_notes/Prologue/Characters/Players/Dina Bloodbane.md",
-    "_notes/Prologue/Locations/Golden Fang/Neverwoods/Fairy Grotto.md",
-    "_notes/Prologue/Locations/Golden Fang/Golden Fang.md",
-    "_notes/Prologue/Locations/Golden Fang/Neverwoods/Neverwoods.md",
-    "_notes/Prologue/Locations/Locations.md",
-    "_notes/Prologue/Characters/Secondary NPC/Squinks.md",
-    "_notes/Prologue/Locations/Golden Fang/Raven's Peak/Raven's Peak.md",
-    "_notes/Prologue/Locations/Golden Fang/Raven's Peak/Shadow Temple.md"
-  ]
+  "active": "99524876f3971ecf",
+  "lastOpenFiles": []
 }
