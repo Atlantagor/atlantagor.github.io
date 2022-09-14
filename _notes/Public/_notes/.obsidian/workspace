@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prologue/Encounters/Possible Encounters.md",
+            "file": "Prologue/Characters/Players/Skia.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prologue/Encounters/Possible Encounters.md",
+                "file": "Prologue/Characters/Players/Skia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prologue/Encounters/Possible Encounters.md",
+                "file": "Prologue/Characters/Players/Skia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prologue/Encounters/Possible Encounters.md"
+                "file": "Prologue/Characters/Players/Skia.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "99524876f3971ecf",
   "lastOpenFiles": [
-    "Prologue/Encounters/Encounters.md",
     "Prologue/Encounters/Possible Encounters.md",
+    "Prologue/Encounters/Encounters.md",
     "Prologue/Prologue.md",
     "Random Ideas.md",
     "Prologue/Characters/Characters.md",
