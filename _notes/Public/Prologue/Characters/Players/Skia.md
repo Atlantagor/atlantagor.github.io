@@ -7,6 +7,6 @@ date: 02-02-2022
 <img src="https://raw.githubusercontent.com/Atlantagor/atlantagor.github.io/main/assets/img/Skia.png">
 </div>
 
-**Skia** (Sylvan: *Skiá Kryfó xotikó*, Novarian: *Σκιά Κρυφό ξωτικό*) is a 
+**Skía** (Sylvan: *Skiá Kryfó xotikó*, Novarian: *Σκιά Κρυφό ξωτικό*) is a 
 
 ##### Basic Info
