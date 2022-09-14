@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Prologue/Characters/Players/Skia.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,15 +130,15 @@
   },
   "active": "99524876f3971ecf",
   "lastOpenFiles": [
+    "Prologue/Locations/Novaria/Novaria.md",
+    "Prologue/Locations/Locations.md",
+    "Prologue/Characters/Enemies.md",
+    "Prologue/Characters/Players/Skia.md",
     "Prologue/Encounters/Possible Encounters.md",
     "Prologue/Encounters/Encounters.md",
     "Prologue/Prologue.md",
     "Random Ideas.md",
     "Prologue/Characters/Characters.md",
-    "Prologue/Houses/Houses.md",
-    "Prologue/Characters/Players/Players.md",
-    "Prologue/Locations/Locations.md",
-    "Prologue/Locations/Novaria/Novaria.md",
-    "Prologue/Locations/Golden Fang/Raven's Peak/Shadow Temple.md"
+    "Prologue/Houses/Houses.md"
   ]
 }
