@@ -9,6 +9,9 @@ Welcome to the Guardian's Academy!
 
 
 [[Characters]]
+
 [[Locations]]
+
 [[Encounters]]
+
 
