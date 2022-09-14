@@ -1533,3 +1533,8 @@ label.margin-toggle:not(.sidenote-number) {
   grid-template-columns: repeat(1, 1fr);
 }
 }
+
+.character-portrait {
+    width: auto;
+    height: 50%;
+}
