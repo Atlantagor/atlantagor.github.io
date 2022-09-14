@@ -1534,7 +1534,7 @@ label.margin-toggle:not(.sidenote-number) {
 }
 }
 
-.character-portrait {
+.character-portrait img {
     width: auto;
     height: 50%;
 }
